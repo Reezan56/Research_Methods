@@ -1,5 +1,5 @@
 
-1. Research question:
+1. Research question: 
 How can machine learning be used to help smart wheelchairs learn and adapt to the movement behaviours and navigation preferences of users with physical disabilities?
 
 2. Hypothesis:
