@@ -3,7 +3,7 @@
 How can machine learning be used to help smart wheelchairs learn and adapt to the movement behaviours and navigation preferences of users with physical disabilities?
  
 2. Hypothesis:
-Smart wheelchairs equipped with machine learning algorithms can learn users' movement patterns and navigation preferences over time, improving personalised mobility assistance, navigation accuracy and user independence.
+Smart wheelchairs equipped with machine learning algorithms can learn users' movement patterns and navigation preferences over time, improving personalised mobility assistance, navigation accuracy and user independence.  
 
 3. Evaluation:
 Topic Evaluation – Good:
